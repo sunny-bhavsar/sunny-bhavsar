@@ -1,5 +1,5 @@
 # Hi there, I'm Sunny Bhavsar 👋
-### Data Analyst | Data Engineer | Data Scientist
+### Data Engineer | Data Analyst | Data Scientist
 **Specializing in Python, SQL, Industrial IoT Telemetry, and Cloud Analytics Solutions**
 
 ---
