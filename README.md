@@ -1,12 +1,12 @@
 # Hi there, I'm Sunny Bhavsar 👋
 ### Data Engineer | Data Analyst | Data Scientist
-**Specializing in Python, SQL, Industrial IoT Telemetry, and Cloud Analytics Solutions**
+**Specializing in Python, SQL, dbt, Snowflake, and Cloud Analytics Solutions**
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Focus:** Building end-to-end data pipelines, real-time telemetry dashboards, and industrial AI monitoring systems.
-- 🛠️ **Core Expertise:** Enterprise Data Warehousing (Snowflake, Azure Databricks), Power BI Dashboard Design, and Large Language Model Fine-Tuning.
+- 🔭 **Focus:** Building end-to-end modern data stacks, automated dbt transformation pipelines, and industrial AI monitoring systems.
+- 🛠️ **Core Expertise:** Enterprise Data Warehousing (Snowflake, Azure Databricks), dbt Core Modeling, and Large Language Model Fine-Tuning.
 - 📜 **Certifications:** Microsoft Certified Azure Databricks Data Engineer Associate | Microsoft Azure Data Fundamentals (DP-900).
 - 🎓 **Education:** B.Tech in Instrumentation Engineering with a Minor in AI & Data Science (AISSMS IOIT).
 
@@ -20,6 +20,7 @@
 
 #### 📊 Data Engineering & Warehousing
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,17 +39,15 @@
 
 ### 🏆 Highlighted Projects
 
-#### 🏭 [Honeywell Industrial Analytics Portfolio](https://github.com/sunny-bhavsar/honeywell-industrial-analytics-portfolio)
-*An enterprise-grade 4-project suite designed for Honeywell Forge domain operations using Snowflake and Power BI.*
-* **Predictive Maintenance SLA Engine:** ML-driven anomaly score tracking and SLA response monitoring.
-* **Plant Operations & Energy Optimization:** Utility cost waste ($157.50) and carbon emissions tracking.
-* **Pipeline SLA Root-Cause Hub:** Upstream run execution logs, SLA breaches, and error-cause attribution.
-* **Industrial IoT Telemetry Dashboard:** Real-time asset performance and uptime SLA percentage tracking.
+#### 🛒 [End-to-End E-Commerce Data Analytics Pipeline](https://github.com/sunny-bhavsar/ecommerce-analytics-pipeline)
+*A robust, production-grade modern data stack pipeline built to ingest, model, transform, and validate e-commerce data.*
+- **Modern Data Stack:** Powered by Snowflake (`ECOMMERCE_DB`), dbt Core staging and mart layers, and a custom Python orchestration script.
+- **Data Quality & Testing:** Implemented and passed automated dbt data tests enforcing unique and not-null constraints across core entities.
 
 #### 🤖 [Fine-Tuned AI Assistant for Instrumentation](https://github.com/sunny-bhavsar/Fine-Tuned-AI-Assistant-Instrumentation)
 *Autonomous Supervisory Control & Digital Twin System.*
-* Fine-tuned local Qwen3-4B model (QLoRA) achieving **92.3% reasoning accuracy** and **145 ms latency**.
-* Built asynchronous OPC UA communication bridge and custom deadband-aware PID control algorithm.
+- Fine-tuned local Qwen3-4B model (QLoRA) achieving **92.3% reasoning accuracy** and **145 ms latency**.
+- Built asynchronous OPC UA communication bridge and custom deadband-aware PID control algorithm.
 
 ---
 
